@@ -78,7 +78,7 @@ Also bear in mind how the `itk_Item` was *constructed*. It is the return value o
 the function:
 
 ```c
-    DLLEXPORT itk_Item *itkc_findItem(const char *itemId)`
+    DLLEXPORT itk_Item *itkc_findItem(const char *itemId)
 ```
 
 ## Support libraries
